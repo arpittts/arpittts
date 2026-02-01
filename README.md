@@ -1,6 +1,6 @@
 # Hi, I'm Arpit 👋  
 Aspiring Computer Scientist | Java | Python | C/C++  
-Aspiring Student Researcher | Strong CS Fundamentals  
+Strong CS Fundamentals  
 
 <!--
 **arpittts/arpittts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
