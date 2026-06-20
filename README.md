@@ -26,5 +26,5 @@ Database Management Systems · Data Structures & Algorithms · Computer Networks
 
 ## 📫 Reach me
 
-[LinkedIn](https://linkedin.com/in/arpitsingh) · 
+[LinkedIn](https://www.linkedin.com/in/arpitsingh14/) · 
 [arpit.singh1485@gmail.com](mailto:arpit.singh1485@gmail.com)
